@@ -1,7 +1,7 @@
 # ✈️ AeroTrack Live: Global Flight Telemetry Dashboard ✈️
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dbbea6da-3edd-446c-b778-a912afa4f4f8" width="300" height="200" />
+  <img src="https://github.com/user-attachments/assets/dbbea6da-3edd-446c-b778-a912afa4f4f8" width="500" height="200" />
   <img src="https://github.com/user-attachments/assets/544b03aa-8324-49c5-a7c0-f6bf413672ec" width="300" height="200" />
 </p>
 
@@ -35,7 +35,7 @@ Data Processing: Power Query
 Concepts: Telemetry Analysis, Outlier Detection, UI/UX Layering, Drill-Through Navigation.
 
 
-<p align="center"><img width="512" height="512" alt="direct-flight" src="https://github.com/user-attachments/assets/8bd9c2d3-437d-46fc-bd8c-b7743604adfb" /></p>
+<p align="center"><img width="512" height="512" alt="direct-flight" src="https://github.com/user-attachments/assets/8bd9c2d3-437d-46fc-bd8c-b7743604adfb"width="300" height="200" /></p>
 
 
 # 📖 Data Dictionary
