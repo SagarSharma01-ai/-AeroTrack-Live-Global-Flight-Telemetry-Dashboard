@@ -24,6 +24,8 @@ AeroTrack Live is an advanced, interactive Power BI dashboard designed to act as
 
 🎨 Premium UI/UX: Features a "Dark Radar" theme, custom DAX-extracted airline identifiers, app-like page navigation, and advanced Z-order layering for transparent watermark effects.
 
+🔄 Real-Time Data Ingestion: Seamlessly refreshes live API data to update telemetry metrics, active emergencies, and flight distributions instantly, simulating a true live command center environment.
+
 <img width="1340" height="753" alt="image" src="https://github.com/user-attachments/assets/19c4ae8e-c68a-4194-8f3d-f591d59ddd65" />
 
 
