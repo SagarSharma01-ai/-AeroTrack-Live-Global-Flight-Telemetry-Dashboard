@@ -34,7 +34,9 @@ Data Processing: Power Query
 
 Concepts: Telemetry Analysis, Outlier Detection, UI/UX Layering, Drill-Through Navigation.
 
-<img width="800" height="450" alt="304338b1-bfa5-4580-8036-a7a9281238f4" src="https://github.com/user-attachments/assets/29ac7e37-5760-4ef2-ab40-f47a06a30165" />
+
+<p align="center"><img width="512" height="512" alt="direct-flight" src="https://github.com/user-attachments/assets/8bd9c2d3-437d-46fc-bd8c-b7743604adfb" /></p>
+
 
 # 📖 Data Dictionary
 To make the dashboard accessible to non-aviation experts, a comprehensive Aero-Telemetry Dictionary is included within the dashboard to explain core parameters like ICAO24, Callsigns, Squawk Codes, and Vertical Rates.
