@@ -1,6 +1,6 @@
 # ✈️ AeroTrack Live: Global Flight Telemetry Dashboard ✈️
 
-![output-onlinegiftools](https://github.com/user-attachments/assets/dbbea6da-3edd-446c-b778-a912afa4f4f8)
+<img src="https://github.com/user-attachments/assets/dbbea6da-3edd-446c-b778-a912afa4f4f8" width="300" height="200" />
 
 # 📌 Project Overview
 AeroTrack Live is an advanced, interactive Power BI dashboard designed to act as a real-time Air Traffic Control (ATC) monitoring system. By ingesting live global aviation data, this project transforms raw flight coordinates and physics metrics into actionable operational intelligence. It focuses heavily on anomaly detection, airspace congestion, and emergency telemetry tracking.
