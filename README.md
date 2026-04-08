@@ -53,3 +53,8 @@ Open with Microsoft Power BI Desktop.
 Use the top navigation buttons to switch between the Global Map, Telemetry Analysis, and the Data Dictionary.
 
 On the Global Map, right-click any country's data point and select "Drill through" to see specific regional data.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/674b96fc-1ca8-44a2-b023-3128ea7018ad" alt="airplane (1)" width="300" height="200" />
+</p>
+
