@@ -37,7 +37,9 @@ Data Processing: Power Query
 Concepts: Telemetry Analysis, Outlier Detection, UI/UX Layering, Drill-Through Navigation.
 
 
-<p align="center"><img width="512" height="512" alt="direct-flight" src="https://github.com/user-attachments/assets/8bd9c2d3-437d-46fc-bd8c-b7743604adfb"width="300" height="80"/></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bd9c2d3-437d-46fc-bd8c-b7743604adfb" alt="direct-flight" width="300" height="200" />
+</p>
 
 
 # 📖 Data Dictionary
